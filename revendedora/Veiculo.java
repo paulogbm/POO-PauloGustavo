@@ -7,7 +7,7 @@ public class Veiculo {
     private int ano;
     private double preco;
 
-    // Getters e setters
+    
     public int getId() {
         return id;
     }
