@@ -4,8 +4,6 @@ public class ContaCorrente {
     public int numero;
     private double saldo;
     
-    private ContaCorrente(){}
-    
     public ContaCorrente(int numeroConta){
          this.numero = numeroConta;
          this.saldo = 0;
